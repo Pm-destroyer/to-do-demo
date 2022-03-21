@@ -1,5 +1,5 @@
 console.log("this is app.js");
-console.log('hello2');
+console.log('hello3');
 showText();
 // Add notes by clicking the button with id btnAdd
 
